@@ -62,10 +62,10 @@
 
             display-name = "Raise";
             bindings = <
-&trans  &trans  &trans  &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9                         &trans         &trans            &trans           &trans         &trans        &trans
-&trans  &trans  &trans  &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6                         &kp KP_PLUS    &kp KP_MINUS      &kp KP_ASTERISK  &kp KP_DIVIDE  &kp CARET     &kp PERCENT
-&trans  &trans  &trans  &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3                         &kp LESS_THAN  &kp GREATER_THAN  &kp AMPERSAND    &kp COLON      &kp KP_COMMA  &trans
-&trans  &trans  &trans  &kp KP_EQUAL     &kp KP_NUMBER_0  &kp KP_DOT       &kp LPAR     &kp RPAR  &trans         &trans            &trans           &trans         &trans        &trans
+&trans  &trans  &trans  &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9                         &trans         &trans            &trans           &trans         &trans     &trans
+&trans  &trans  &trans  &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6                         &kp KP_PLUS    &kp KP_MINUS      &kp KP_ASTERISK  &kp KP_DIVIDE  &kp CARET  &kp PERCENT
+&trans  &trans  &trans  &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3                         &kp LESS_THAN  &kp GREATER_THAN  &kp AMPERSAND    &kp COLON      &kp COMMA  &trans
+&trans  &trans  &trans  &kp EQUAL        &kp KP_NUMBER_0  &kp KP_DOT       &kp LPAR     &kp RPAR  &trans         &trans            &trans           &trans         &trans     &trans
                         &trans           &trans           &trans           &kp SPACE    &trans    &trans         &trans            &trans
             >;
 
